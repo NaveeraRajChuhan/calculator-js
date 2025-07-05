@@ -55,9 +55,13 @@ box-shadow: none;
     width: 145px !important;
     /* background-color: black !important; */
     background-color: rgb(25, 26, 26)  !important;
+
     
     /* height: 10px; */
     
+}
+.equal:hover {
+  background-color:#33FFd8  ;
 }
 
 form .operator{
