@@ -51,12 +51,12 @@ box-shadow: none;
 
 
 .equal{
-    width: 145px;
-    background-color: black;
+    width: 145px !important;
+    background-color: black !important;
     /* height: 10px; */
     
 }
 
-form input .operator{
-color: #33FFd8;
+form .operator{
+color: #33FFd8 !important;
 }
